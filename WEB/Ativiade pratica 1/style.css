@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+#Valor{
+    color: blue;
+}
+
+#frete{
+    font-style:italic;
+    color: blue
+}
+#sinp{
+    color: blue;
+    text-align: center;
+    margin-left: 100px;
+}
+#titu{
+    color: blue;
+    font-style: italic;
+    text-align: center;
+    margin-left: 100px;
+}
+#img{
+    margin-left: 150px;
+}
+
+#a{
+    margin-left: 700px;
+}
+
+#button{
+    color: blue;
+}
